@@ -1,0 +1,1 @@
+30-03-2016 12:45:24 - ERROR - 7,9 MB - Table 'wordpress.wp_11_newsletter' doesn't exist
